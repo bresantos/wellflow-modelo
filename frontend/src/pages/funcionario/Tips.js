@@ -5,7 +5,7 @@ const FuncionarioTips = () => {
   const tips = [
     {
       icon: IconBrain,
-      category: 'Gestão de Estresse',
+      category: 'Gestão de Estresse',  
       items: [
         'Pratique respiração profunda por 5 minutos durante o dia',
         'Faça pequenas pausas a cada 2 horas de trabalho',
